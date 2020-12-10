@@ -1,0 +1,21 @@
+//
+EN | This file includes 2 challenges, 1 steganography challenge, 1 pwn challenge
+FR | Ce dossier comprend 2 défis, 1 défi de stéganographie, 1 défi pwn
+
+------------------------------------------------------------------------------------------------------------------------
+- Steg Context :
+
+FR |Mathis voulait vous envoyer un message caché dans une image, retrouver le message !
+
+EN | Mathis wanted to send you a message hidden in a picture to find the message!
+------------------------------------------------------------------------------------------------------------------------
+- Pwn context :
+
+FR|Antoine a développé un programme en C
+  |pour demander le prénom et l'âge de c'est camarade mais Antoine na par penser à relire son code nous allons en profiter mouhahaha...
+
+EN|Antoine developed a program in C
+  |to ask for the first name and the age of this comrade but antoine did not think to reread his 
+  |code we are going to take advantage of it mouhahaha ..
+------------------------------------------------------------------------------------------------------------------------
+//
