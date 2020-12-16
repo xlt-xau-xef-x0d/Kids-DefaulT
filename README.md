@@ -20,7 +20,7 @@
 - understand the C
 
 ### -------------------------------------------------
-![alt text](https://media.giphy.com/media/OmPsXBPqCEuENZdPFB/giphy.gif)
+![alt text](https://media.giphy.com/media/2pnyTqK8eJ7ucAE1za/giphy.gif)
 <br />
 <br />
 
